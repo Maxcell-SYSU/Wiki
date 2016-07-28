@@ -14,7 +14,7 @@ Wiki of Maxcell@SYSU
 
 1. Download `git clone https://github.com/Maxcell-SYSU/Wiki.git MaxcellWiki && cd MaxcellWiki`
 2. Install Composer `curl -sS https://getcomposer.org/installer | php`
-3. Install dependence`php composer.phar install`
+3. Install dependence `php composer.phar install`
 4. Setup `.env` file using `.env.example` as an example
 
 ### Develop
